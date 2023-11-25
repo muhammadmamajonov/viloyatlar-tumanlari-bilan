@@ -153,8 +153,8 @@
             },
             {
                 "name_uz": "Oltinko'l tumani",
-                "name_en": "Oltinkol district",
-                "name_ru": "Олтинкольский район"
+                "name_en": "Altinkul district",
+                "name_ru": "Алтынкульский район"
             },
             {
                 "name_uz": "Paxtaobod tumani",
@@ -230,8 +230,8 @@
             },
             {
                 "name_uz": "Qorako'l tumani",
-                "name_en": "Karakol district",
-                "name_ru": "Каракольский район"
+                "name_en": "Karakul district",
+                "name_ru": "Каракульский район"
             },
             {
                 "name_uz": "Qorovulbozor tumani",
@@ -273,8 +273,8 @@
             },
             {
                 "name_uz": "Baxmal tumani",
-                "name_en": "Velvet district",
-                "name_ru": "Бархатный район"
+                "name_en": "Bakhmal district",
+                "name_ru": "Бахмальский район"
             },
             {
                 "name_uz": "G'allaorol tumani",
@@ -283,8 +283,8 @@
             },
             {
                 "name_uz": "Do'stlik tumani",
-                "name_en": "Friendship District",
-                "name_ru": "Район Дружбы"
+                "name_en": "Dustlik district",
+                "name_ru": "Дустликский район"
             },
             {
                 "name_uz": "Sh.Rashidov tumani",
@@ -293,7 +293,7 @@
             },
             {
                 "name_uz": "Jizzax shahri",
-                "name_en": "The city of Jizzakh",
+                "name_en": "Jizzakh city",
                 "name_ru": "Город Джизак"
             },
             {
@@ -313,8 +313,8 @@
             },
             {
                 "name_uz": "Mirzacho'l tumani",
-                "name_en": "Mirzachol district",
-                "name_ru": "Мирзачольский район"
+                "name_en": "Mirzachul district",
+                "name_ru": "Мирзачульский район"
             },
             {
                 "name_uz": "Paxtakor tumani",
@@ -370,8 +370,8 @@
             },
             {
                 "name_uz": "Kitob tumani",
-                "name_en": "Book district",
-                "name_ru": "Книжный район"
+                "name_en": "Kitab district",
+                "name_ru": "Китабский район"
             },
             {
                 "name_uz": "Koson tumani",
@@ -390,8 +390,8 @@
             },
             {
                 "name_uz": "Nishon tumani",
-                "name_en": "Target district",
-                "name_ru": "Целевой район"
+                "name_en": "Nishon district",
+                "name_ru": "Нишанский район"
             },
             {
                 "name_uz": "Chiroqchi tumani",
@@ -406,12 +406,12 @@
             {
                 "name_uz": "Yakkabog' tumani",
                 "name_en": "Yakkabog district",
-                "name_ru": "Яккабогский район"
+                "name_ru": "Яккабагский район"
             },
             {
                 "name_uz": "Ko'kdala tumani",
-                "name_en": "Ko'kdala time",
-                "name_ru": "Время в Кокдале"
+                "name_en": "Kokdala district",
+                "name_ru": "Кокдалинский район"
             }
         ]
     },
@@ -437,8 +437,8 @@
             },
             {
                 "name_uz": "Konimex tumani",
-                "name_en": "Conimex district",
-                "name_ru": "Конимекс район"
+                "name_en": "Kanimekh district",
+                "name_ru": "Канимехский район"
             },
             {
                 "name_uz": "Navbahor tumani",
@@ -462,8 +462,8 @@
             },
             {
                 "name_uz": "Uchquduq tumani",
-                "name_en": "Uzguduk district",
-                "name_ru": "Узгудукский район"
+                "name_en": "Uchkuduk district",
+                "name_ru": "Учкудукский район"
             },
             {
                 "name_uz": "Xatirchi tumani",
@@ -509,8 +509,8 @@
             },
             {
                 "name_uz": "To'raqo'rg'on tumani",
-                "name_en": "Torakurgan district",
-                "name_ru": "Торакурганский район"
+                "name_en": "Turakurgan district",
+                "name_ru": "Туракурганский район"
             },
             {
                 "name_uz": "Uychi tumani",
